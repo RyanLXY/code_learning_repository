@@ -3,6 +3,18 @@ public class Person {
     private String name;
     private int sex;
     private int age;
+    public static int count;
+
+    public Person() {
+        Person.count += 1;
+    }
+
+    public Person(String name, int sex, int age) {
+        this.name = name;
+        this.sex = sex;
+        this.age = age;
+        Person.count += 1;
+    }
 
     public String getName() {
         return name;
@@ -61,6 +73,11 @@ public class Person {
 
     public void intTest(int... i){
 
+    }
+
+    // static 内不能使用this 和 super
+    public static int showCount(){
+        return count;
     }
 }
 
