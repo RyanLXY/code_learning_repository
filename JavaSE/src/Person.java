@@ -1,4 +1,6 @@
-public class Person {
+import java.util.Comparator;
+
+public class Person implements Comparator<Person> {
 
     private String name;
     private int sex;
@@ -79,5 +81,18 @@ public class Person {
     public static int showCount(){
         return count;
     }
+
+    @Override
+    public int compare(Person o1, Person o2) {  // 集合定制排序 Comparator接口
+        if (o1.age > o2.age){
+            return 1;
+        }else if(o1.age < o2.age){
+            return -1;
+        }else {
+            return 0;
+        }
+
+    }
+
 }
 
