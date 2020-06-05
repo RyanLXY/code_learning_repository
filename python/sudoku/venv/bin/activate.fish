@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/L/Documents/GitHub/python/sudoku/venv"
+set -gx VIRTUAL_ENV "/Users/L/Documents/GitHub/practice_project/python/sudoku/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
