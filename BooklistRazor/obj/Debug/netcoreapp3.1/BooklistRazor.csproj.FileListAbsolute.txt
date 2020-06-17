@@ -746,3 +746,4 @@
 /Users/L/Documents/GitHub/code_learning_repository/BooklistRazor/obj/Debug/netcoreapp3.1/BooklistRazor.dll
 /Users/L/Documents/GitHub/code_learning_repository/BooklistRazor/obj/Debug/netcoreapp3.1/BooklistRazor.pdb
 /Users/L/Documents/GitHub/code_learning_repository/BooklistRazor/obj/Debug/netcoreapp3.1/BooklistRazor.genruntimeconfig.cache
+/Users/L/Documents/GitHub/code_learning_repository/BooklistRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/Edit.cshtml.g.cs

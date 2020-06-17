@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{685AF281-79E0-44ED-B097-BA9E6EB9A7E7}|Default">
   <MonoDevelop.Ide.ItemProperties.BooklistRazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20200617063820_AddISBNToBookModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/BookList/Index.cshtml.cs">
     <Files>
-      <File FileName="Migrations/20200611053603_AddBookToDb.cs" Line="1" Column="1" />
       <File FileName="Model/Book.cs" Line="1" Column="1" />
-      <File FileName="Migrations/20200617063820_AddISBNToBookModel.cs" Line="1" Column="1" />
+      <File FileName="Pages/BookList/Create.cshtml" Line="4" Column="1" />
+      <File FileName="Pages/BookList/Create.cshtml.cs" Line="42" Column="1" />
+      <File FileName="Pages/BookList/Index.cshtml.cs" Line="38" Column="10" />
+      <File FileName="Pages/BookList/Edit.cshtml" Line="11" Column="50" />
+      <File FileName="Pages/BookList/Edit.cshtml.cs" Line="42" Column="37" />
+      <File FileName="Pages/BookList/Index.cshtml" Line="46" Column="81" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +17,21 @@
             <Node name="BooklistRazor" expanded="True">
               <Node name="Migrations" expanded="True">
                 <Node name="20200611053603_AddBookToDb.cs" expanded="True" />
-                <Node name="20200617063820_AddISBNToBookModel.cs" selected="True" />
               </Node>
               <Node name="Model" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="BookList" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True">
+                    <Node name="Index.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="Error.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="Privacy.cshtml" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
