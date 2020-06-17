@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{685AF281-79E0-44ED-B097-BA9E6EB9A7E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.BooklistRazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20200617063820_AddISBNToBookModel.cs">
+    <Files>
+      <File FileName="Migrations/20200611053603_AddBookToDb.cs" Line="1" Column="1" />
+      <File FileName="Model/Book.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20200617063820_AddISBNToBookModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BooklistRazor" expanded="True">
+            <Node name="BooklistRazor" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="20200611053603_AddBookToDb.cs" expanded="True" />
+                <Node name="20200617063820_AddISBNToBookModel.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
