@@ -16,5 +16,9 @@
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Pages\BookList\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Pages\BookList\Upsert.cshtml" />
   </ItemGroup>
 </Project>

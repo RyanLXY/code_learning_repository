@@ -1,36 +1,34 @@
 ﻿<Properties StartupConfiguration="{685AF281-79E0-44ED-B097-BA9E6EB9A7E7}|Default">
   <MonoDevelop.Ide.ItemProperties.BooklistRazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/BookList/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/BookList/Index.cshtml">
     <Files>
-      <File FileName="Model/Book.cs" Line="1" Column="1" />
-      <File FileName="Pages/BookList/Create.cshtml" Line="4" Column="1" />
-      <File FileName="Pages/BookList/Create.cshtml.cs" Line="42" Column="1" />
-      <File FileName="Pages/BookList/Index.cshtml.cs" Line="38" Column="10" />
-      <File FileName="Pages/BookList/Edit.cshtml" Line="11" Column="50" />
+      <File FileName="Controllers/BookController.cs" Line="43" Column="10" />
+      <File FileName="Startup.cs" Line="56" Column="44" />
+      <File FileName="Pages/BookList/Index.cshtml" Line="13" Column="79" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="54" Column="80" />
+      <File FileName="Pages/BookList/Upsert.cshtml" Line="49" Column="102" />
+      <File FileName="Pages/BookList/Upsert.cshtml.cs" Line="52" Column="43" />
+      <File FileName="Pages/BookList/Edit.cshtml" Line="1" Column="1" />
       <File FileName="Pages/BookList/Edit.cshtml.cs" Line="42" Column="37" />
-      <File FileName="Pages/BookList/Index.cshtml" Line="46" Column="81" />
+      <File FileName="wwwroot/js/bookList.js" Line="21" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BooklistRazor" expanded="True">
             <Node name="BooklistRazor" expanded="True">
-              <Node name="Migrations" expanded="True">
-                <Node name="20200611053603_AddBookToDb.cs" expanded="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Model" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="BookList" expanded="True">
-                  <Node name="Create.cshtml" expanded="True" />
                   <Node name="Edit.cshtml" expanded="True" />
-                  <Node name="Index.cshtml" expanded="True">
-                    <Node name="Index.cshtml.cs" selected="True" />
-                  </Node>
+                  <Node name="Index.cshtml" expanded="True" selected="True" />
+                  <Node name="Upsert.cshtml" expanded="True" />
                 </Node>
                 <Node name="Shared" expanded="True" />
-                <Node name="Error.cshtml" expanded="True" />
-                <Node name="Index.cshtml" expanded="True" />
-                <Node name="Privacy.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
