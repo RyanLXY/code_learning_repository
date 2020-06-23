@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{BB76CC03-D1B4-49CA-9B82-2B4D03B1A68B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooklistMVC/Controllers/BooksController.cs">
+    <Files>
+      <File FileName="BooklistMVC/Controllers/BooksController.cs" Line="64" Column="50" />
+      <File FileName="BooklistMVC/Models/Book.cs" Line="1" Column="1" />
+      <File FileName="BooklistMVC/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BooklistMVC/Views/Shared/_Layout.cshtml" Line="50" Column="14" />
+      <File FileName="BooklistMVC/Views/Books/Index.cshtml" Line="28" Column="1" />
+      <File FileName="BooklistMVC/wwwroot/js/bookList.js" Line="27" Column="58" />
+      <File FileName="BooklistMVC/Views/Books/Upsert.cshtml" Line="4" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BooklistMVC" expanded="True">
+            <Node name="BooklistMVC" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BooksController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Books" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BooklistMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
